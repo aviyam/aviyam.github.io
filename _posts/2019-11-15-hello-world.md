@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 title: hello world
 ---
 
